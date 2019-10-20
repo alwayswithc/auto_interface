@@ -1,0 +1,12 @@
+2019-10-07 20:12:30,880-INFO-my_log.py-root-日志信息：获取到的结果是：{"resultcode":"200","reason":"Return Successd!","result":{"province":"广东","city":"江门","areacode":"0750","zip":"529000","company":"移动","card":""},"error_code":0}
+2019-10-07 20:12:30,885-DEBUG-connectionpool.py-urllib3.connectionpool-日志信息：Starting new HTTP connection (1): apis.juhe.cn:80
+2019-10-07 20:12:31,017-DEBUG-connectionpool.py-urllib3.connectionpool-日志信息：http://apis.juhe.cn:80 "GET /mobile/get?phone=13531563777&key=ec95e4eeb591250e6d930f0649715cea HTTP/1.1" 200 None
+2019-10-07 20:12:31,174-INFO-my_log.py-root-日志信息：获取到的结果是：{"resultcode":"200","reason":"Return Successd!","result":{"province":"广东","city":"潮州","areacode":"0768","zip":"521000","company":"移动","card":""},"error_code":0}
+2019-10-07 20:12:31,174-INFO-my_log.py-root-日志信息：获取到的结果是：{"resultcode":"200","reason":"Return Successd!","result":{"province":"广东","city":"潮州","areacode":"0768","zip":"521000","company":"移动","card":""},"error_code":0}
+2019-10-07 20:12:31,175-DEBUG-connectionpool.py-urllib3.connectionpool-日志信息：Starting new HTTP connection (1): apis.juhe.cn:80
+2019-10-07 20:12:31,175-DEBUG-connectionpool.py-urllib3.connectionpool-日志信息：Starting new HTTP connection (1): apis.juhe.cn:80
+2019-10-07 20:12:31,318-DEBUG-connectionpool.py-urllib3.connectionpool-日志信息：http://apis.juhe.cn:80 "GET /mobile/get?phone=18307680780&key=ec95e4eeb591250e6d930f0649715cea HTTP/1.1" 200 None
+2019-10-07 20:12:31,318-DEBUG-connectionpool.py-urllib3.connectionpool-日志信息：http://apis.juhe.cn:80 "GET /mobile/get?phone=18307680780&key=ec95e4eeb591250e6d930f0649715cea HTTP/1.1" 200 None
+2019-10-07 20:12:31,459-INFO-my_log.py-root-日志信息：获取到的结果是：{"resultcode":"200","reason":"Return Successd!","result":{"province":"广东","city":"潮州","areacode":"0768","zip":"521000","company":"移动","card":""},"error_code":0}
+2019-10-07 20:12:31,459-INFO-my_log.py-root-日志信息：获取到的结果是：{"resultcode":"200","reason":"Return Successd!","result":{"province":"广东","city":"潮州","areacode":"0768","zip":"521000","company":"移动","card":""},"error_code":0}
+2019-10-07 20:12:31,459-INFO-my_log.py-root-日志信息：获取到的结果是：{"resultcode":"200","reason":"Return Successd!","result":{"province":"广东","city":"潮州","areacode":"0768","zip":"521000","company":"移动","card":""},"error_code":0}
